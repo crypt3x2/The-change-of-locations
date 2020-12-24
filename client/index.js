@@ -77,129 +77,108 @@ let data = [
             },
         ]
     },
-//     { // Online Apartments
-//         name: 'Online Apartments',
-//         array: [
-//             {
-//                 name: 'Modern 1 Apartment',
-//                 coords: [-786.8663, 315.7642, 217.6385]
-//             },
-//             {
-//                 name: 'Modern 2 Apartment',
-//                 coords: [-786.9563, 315.6229, 187.9136
-// ]
-//             },
-//             {
-//                 name: 'Modern 3 Apartment',
-//                 coords: [-774.0126, 342.0428, 196.6864
-// ]
-//             },
-//             {
-//                 name: 'Mody 1 Apartment',
-//                 coords: [-787.0749, 315.8198, 217.6386
-// ]
-//             },
-//             {
-//                 name: 'Mody 2 Apartment',
-//                 coords: [-786.8195, 315.5634, 187.9137
-// ]
-//             },
-//             {
-//                 name: 'Mody 3 Apartment',
-//                 coords: [-774.1382, 342.0316, 196.6864
-// ]
-//             },
-//             {
-//                 name: 'Vibrant 1 Apartment',
-//                 coords: [-786.6245, 315.6175, 217.6385
-// ]
-//             },
-//             {
-//                 name: 'Vibrant 2 Apartment',
-//                 coords: [-786.9584, 315.7974, 187.9135
-// ]
-//             },
-//             {
-//                 name: 'Vibrant 3 Apartment',
-//                 coords: [-774.0223, 342.1718, 196.6863
-// ]
-//             },
-//             {
-//                 name: 'Sharp 1 Apartment',
-//                 coords: [-787.0902, 315.7039, 217.6384
-// ]
-//             },
-//             {
-//                 name: 'Sharp 2 Apartment',
-//                 coords: [-787.0155, 315.7071, 187.9135
-// ]
-//             },
-//             {
-//                 name: 'Sharp 3 Apartment',
-//                 coords: [-773.8976, 342.1525, 196.6863]
-//             },
-//             {
-//                 name: 'Monochrome 1 Apartment',
-//                 coords: [-786.9887, 315.7393, 217.6386]
-//             },
-//             {
-//                 name: 'Monochrome 2 Apartment',
-//                 coords: [-786.8809, 315.6634, 187.9136
-// ]
-//             },
-//             {
-//                 name: 'Monochrome 3 Apartment',
-//                 coords: [-774.0675, 342.0773, 196.6864
-// ]
-//             },
-//             {
-//                 name: 'Seductive 1 Apartment',
-//                 coords: [-787.1423, 315.6943, 217.6384
-// ]
-//             },
-//             {
-//                 name: 'Seductive 2 Apartment',
-//                 coords: [-787.0961, 315.815, 187.9135
-// ]
-//             },
-//             {
-//                 name: 'Seductive 3 Apartment',
-//                 coords: [-773.9552, 341.9892, 196.6862
-// ]
-//             },
-//             {
-//                 name: 'Regal 1 Apartment',
-//                 coords: [-787.029, 315.7113, 217.6385
-// ]
-//             },
-//             {
-//                 name: 'Regal 2 Apartment',
-//                 coords: [-787.0574, 315.6567, 187.9135
-// ]
-//             },
-//             {
-//                 name: 'Regal 3 Apartment',
-//                 coords: [-774.0109, 342.0965, 196.6863
-// ]
-//             },
-//             {
-//                 name: 'Aqua 1 Apartment',
-//                 coords: [-786.9469, 315.5655, 217.6383
-// ]
-//             },
-//             {
-//                 name: 'Aqua 2 Apartment',
-//                 coords: [-786.9756, 315.723, 187.9134
-// ]
-//             },
-//             {
-//                 name: 'Aqua 3 Apartment',
-//                 coords: [-774.0349, 342.0296, 196.6862
-// ]
-//             },
-//         ]
-//     },
-    { // Arcadius Business Centre
+    { // Online Apartments
+         name: 'Online Apartments',
+         array: [
+             {
+                 name: 'Modern 1 Apartment',
+                 coords: [-786.8663, 315.7642, 217.6385]
+             },
+             {
+                 name: 'Modern 2 Apartment',
+                 coords: [-786.9563, 315.6229, 187.9136]
+             },
+             {
+                 name: 'Modern 3 Apartment',
+                 coords: [-774.0126, 342.0428, 196.6864]
+             },
+             {
+                 name: 'Mody 1 Apartment',
+                 coords: [-787.0749, 315.8198, 217.6386]
+             },
+             {
+                 name: 'Mody 2 Apartment',
+                 coords: [-786.8195, 315.5634, 187.9137]
+             },
+             {
+                 name: 'Mody 3 Apartment',
+                 coords: [-774.1382, 342.0316, 196.6864]
+             },
+             {
+                 name: 'Vibrant 1 Apartment',
+                 coords: [-786.6245, 315.6175, 217.6385]
+             },
+             {
+                 name: 'Vibrant 2 Apartment',
+                 coords: [-786.9584, 315.7974, 187.9135]
+             },
+             {
+                 name: 'Vibrant 3 Apartment',
+                 coords: [-774.0223, 342.1718, 196.6863]
+             },
+             {
+                 name: 'Sharp 1 Apartment',
+                 coords: [-787.0902, 315.7039, 217.6384]
+             },
+             {
+                 name: 'Sharp 2 Apartment',
+                 coords: [-787.0155, 315.7071, 187.9135]
+             },
+             {
+                 name: 'Sharp 3 Apartment',
+                 coords: [-773.8976, 342.1525, 196.6863]
+             },
+             {
+                 name: 'Monochrome 1 Apartment',
+                 coords: [-786.9887, 315.7393, 217.6386]
+             },
+             {
+                 name: 'Monochrome 2 Apartment',
+                 coords: [-786.8809, 315.6634, 187.9136]
+             },
+             {
+                 name: 'Monochrome 3 Apartment',
+                 coords: [-774.0675, 342.0773, 196.6864]
+             },
+             {
+                 name: 'Seductive 1 Apartment',
+                 coords: [-787.1423, 315.6943, 217.6384]
+             },
+             {
+                 name: 'Seductive 2 Apartment',
+                 coords: [-787.0961, 315.815, 187.9135]
+             },
+             {
+                 name: 'Seductive 3 Apartment',
+                 coords: [-773.9552, 341.9892, 196.6862]
+             },
+             {
+                 name: 'Regal 1 Apartment',
+                 coords: [-787.029, 315.7113, 217.6385]
+             },
+             {
+                 name: 'Regal 2 Apartment',
+                 coords: [-787.0574, 315.6567, 187.9135]
+             },
+             {
+                 name: 'Regal 3 Apartment',
+                 coords: [-774.0109, 342.0965, 196.6863]
+             },
+             {
+                 name: 'Aqua 1 Apartment',
+                 coords: [-786.9469, 315.5655, 217.6383]
+             },
+             {
+                 name: 'Aqua 2 Apartment',
+                 coords: [-786.9756, 315.723, 187.9134]
+             },
+             {
+                 name: 'Aqua 3 Apartment',
+                 coords: [-774.0349, 342.0296, 196.6862]
+             },
+         ]
+     },
+     { // Arcadius Business Centre
         name: 'Arcadius Business Centre',
         array: [
             {
@@ -240,131 +219,131 @@ let data = [
             },
         ]
     },
-    // { // Maze Bank Building
+    { // Maze Bank Building
 
-    //     name: 'Maze Bank Building',
-    //     array: [
-    //         {
-    //             name: 'Executive Rich	',
-    //             coords: [-75.8466, -826.9893, 243.3859	]
-    //         },
-    //         {
-    //             name: 'Executive Cool',
-    //             coords: [-75.49945, -827.05, 243.386	]
-    //         },
-    //         {
-    //             name: 'Executive Contrast',
-    //             coords: [-75.49827, -827.1889, 243.386	]
-    //         },
-    //         {
-    //             name: 'Old Spice Warm',
-    //             coords: [-75.44054, -827.1487, 243.3859	]
-    //         },
-    //         {
-    //             name: 'Old Spice Classical',
-    //             coords: [-75.63942, -827.1022, 243.3859	]
-    //         },
-    //         {
-    //             name: 'Old Spice Vintage',
-    //             coords: [-75.47446, -827.2621, 243.386	]
-    //         },
-    //         {
-    //             name: 'Power Broker Ice	',
-    //             coords: [-75.56978, -827.1152, 243.3859	]
-    //         },
-    //         {
-    //             name: 'Power Broker Conservative',
-    //             coords: [-75.51953, -827.0786, 243.3859	]
-    //         },
-    //         {
-    //             name: 'Power Broker Polished	',
-    //             coords: [-75.41915, -827.1118, 243.3858	]
-    //         },
-    //     ]
-    // },
-    // { // Lom Bank
-    //     name: 'Lom Bank',
-    //     array: [
-    //         {
-    //             name: 'Executive Rich',
-    //             coords: [-1579.756, -565.0661, 108.523	]
-    //         },
-    //         {
-    //             name: 'Executive Cool',
-    //             coords: [-1579.678, -565.0034, 108.5229	]
-    //         },
-    //         {
-    //             name: 'Executive Contrast',
-    //             coords: [-1579.583, -565.0399, 108.5229	]
-    //         },
-    //         {
-    //             name: 'Old Spice Warm',
-    //             coords: [-1579.702, -565.0366, 108.5229	]
-    //         },
-    //         {
-    //             name: 'Old Spice Classical',
-    //             coords: [-1579.643, -564.9685, 108.5229	]
-    //         },
-    //         {
-    //             name: 'Old Spice Vintage',
-    //             coords: [-1579.681, -565.0003, 108.523	]
-    //         },
-    //         {
-    //             name: 'Power Broker Ice',
-    //             coords: [-1579.677, -565.0689, 108.5229	]
-    //         },
-    //         {
-    //             name: 'Power Broker Conservative',
-    //             coords: [-1579.708, -564.9634, 108.5229	]
-    //         },
-    //         {
-    //             name: 'Power Broker Polished',
-    //             coords: [-1579.693, -564.8981, 108.5229	]
-    //         }
-    //     ]
-    // },
-    // { // Maze Bank West
-    //     name: 'Maze Bank West',
-    //     array: [
-    //         {
-    //             name: 'Executive Rich',
-    //             coords: [-1392.667, -480.4736, 72.04217	]
-    //         },
-    //         {
-    //             name: 'Executive Cool',
-    //             coords: [-1392.542, -480.4011, 72.04211	]
-    //         },
-    //         {
-    //             name: 'Executive Contrast',
-    //             coords: [-1392.626, -480.4856, 72.04212	]
-    //         },
-    //         {
-    //             name: 'Old Spice Warm',
-    //             coords: [-1392.617, -480.6363, 72.04208	]
-    //         },
-    //         {
-    //             name: 'Old Spice Classical',
-    //             coords: [-1392.532, -480.7649, 72.04207	]
-    //         },
-    //         {
-    //             name: 'Old Spice Vintage',
-    //             coords: [-1392.611, -480.5562, 72.04214	]
-    //         },
-    //         {
-    //             name: 'Power Broker Ice',
-    //             coords: [-1392.563, -480.549, 72.0421	]
-    //         },
-    //         {
-    //             name: 'Power Broker Convservative',
-    //             coords: [-1392.528, -480.475, 72.04206	]
-    //         },
-    //         {
-    //             name: 'Power Broker Polished',
-    //             coords: [-1392.416, -480.7485, 72.04207	]
-    //         },
-    //     ]
-    // },
-    { // Clubhouse & Warehouses
+         name: 'Maze Bank Building',
+         array: [
+             {
+                 name: 'Executive Rich	',
+                 coords: [-75.8466, -826.9893, 243.3859	]
+             },
+             {
+                 name: 'Executive Cool',
+                 coords: [-75.49945, -827.05, 243.386	]
+             },
+             {
+                 name: 'Executive Contrast',
+                 coords: [-75.49827, -827.1889, 243.386	]
+             },
+             {
+                 name: 'Old Spice Warm',
+                 coords: [-75.44054, -827.1487, 243.3859	]
+             },
+             {
+                 name: 'Old Spice Classical',
+                 coords: [-75.63942, -827.1022, 243.3859	]
+             },
+             {
+                 name: 'Old Spice Vintage',
+                 coords: [-75.47446, -827.2621, 243.386	]
+             },
+             {
+                 name: 'Power Broker Ice	',
+                 coords: [-75.56978, -827.1152, 243.3859	]
+             },
+             {
+                 name: 'Power Broker Conservative',
+                 coords: [-75.51953, -827.0786, 243.3859	]
+             },
+             {
+                 name: 'Power Broker Polished	',
+                 coords: [-75.41915, -827.1118, 243.3858	]
+             },
+         ]
+     },
+     { // Lom Bank
+         name: 'Lom Bank',
+         array: [
+             {
+                 name: 'Executive Rich',
+                 coords: [-1579.756, -565.0661, 108.523	]
+             },
+             {
+                 name: 'Executive Cool',
+                 coords: [-1579.678, -565.0034, 108.5229	]
+             },
+             {
+                 name: 'Executive Contrast',
+                 coords: [-1579.583, -565.0399, 108.5229	]
+             },
+             {
+                 name: 'Old Spice Warm',
+                 coords: [-1579.702, -565.0366, 108.5229	]
+             },
+             {
+                 name: 'Old Spice Classical',
+                 coords: [-1579.643, -564.9685, 108.5229	]
+             },
+             {
+                 name: 'Old Spice Vintage',
+                 coords: [-1579.681, -565.0003, 108.523	]
+             },
+             {
+                 name: 'Power Broker Ice',
+                 coords: [-1579.677, -565.0689, 108.5229	]
+             },
+             {
+                 name: 'Power Broker Conservative',
+                 coords: [-1579.708, -564.9634, 108.5229	]
+             },
+             {
+                 name: 'Power Broker Polished',
+                 coords: [-1579.693, -564.8981, 108.5229	]
+             }
+         ]
+     },
+     { // Maze Bank West
+         name: 'Maze Bank West',
+         array: [
+             {
+                 name: 'Executive Rich',
+                 coords: [-1392.667, -480.4736, 72.04217	]
+             },
+             {
+                 name: 'Executive Cool',
+                 coords: [-1392.542, -480.4011, 72.04211	]
+             },
+             {
+                 name: 'Executive Contrast',
+                 coords: [-1392.626, -480.4856, 72.04212	]
+             },
+             {
+                 name: 'Old Spice Warm',
+                 coords: [-1392.617, -480.6363, 72.04208	]
+             },
+             {
+                 name: 'Old Spice Classical',
+                 coords: [-1392.532, -480.7649, 72.04207	]
+             },
+             {
+                 name: 'Old Spice Vintage',
+                 coords: [-1392.611, -480.5562, 72.04214	]
+             },
+             {
+                 name: 'Power Broker Ice',
+                 coords: [-1392.563, -480.549, 72.0421	]
+             },
+             {
+                 name: 'Power Broker Convservative',
+                 coords: [-1392.528, -480.475, 72.04206	]
+             },
+             {
+                 name: 'Power Broker Polished',
+                 coords: [-1392.416, -480.7485, 72.04207	]
+             },
+         ]
+     },
+     { // Clubhouse & Warehouses
         name: 'Clubhouse & Warehouses',
         array: [
             {
